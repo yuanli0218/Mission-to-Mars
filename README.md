@@ -5,8 +5,10 @@ In this project, I used BeautifulSoup and Splinter to scrape full-resolution ima
 
 ![Workflow](/resources/data-10-1-1-1-use-the-web-scraping-method-extract-into-mongo.png)
 
-## Final Website
-Check the html code for the website [MissingToMars](/updated_index.html).
+## Summary
+- Check the html code for the website [MissingToMars](/updated_index.html)
+- Check the flask app script [FlaskScript](/app.py)
+- Check the web scraping script [ScrapingScript](/scraping.py)
 
 ## Techstack
 - Python: Pandas, BeautifulSoup, Splinter, ChromeDriverManager, Flask, PyMongo
